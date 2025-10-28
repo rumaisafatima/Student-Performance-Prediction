@@ -1,6 +1,6 @@
 
 
-```md
+
 <h1 align="center">📊 Student Performance Prediction & Insights Using Machine Learning</h1>
 
 <p align="center">
