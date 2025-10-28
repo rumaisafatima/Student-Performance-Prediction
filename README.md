@@ -165,7 +165,9 @@ Notebook includes:
 
 Rumaisa Fatima
 Machine Learning + Data Science Enthusiast
+
 📍 Based in Pakistan 🇵🇰
+
 🔗 GitHub: [https://github.com/rumaisafatima](https://github.com/rumaisafatima)
 
 ---
